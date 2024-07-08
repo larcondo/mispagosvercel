@@ -1,0 +1,14 @@
+{
+  "name": "mispagosvercel",
+  "version": "1.0.0",
+  "description": "Prueba despliegue en vercel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "larco",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
